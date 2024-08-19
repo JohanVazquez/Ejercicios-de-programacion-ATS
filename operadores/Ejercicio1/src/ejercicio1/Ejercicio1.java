@@ -1,5 +1,5 @@
 /*Ejercicio 1: hacer un programa que calcule e imprima la suma
-de tres calificacion*/
+de tres calificaciones*/
 
 package ejercicio1;
 
