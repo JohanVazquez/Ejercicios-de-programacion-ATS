@@ -11,17 +11,17 @@ public class Ejercicio2 {
         Scanner jin = new Scanner(System.in);
         
         double dinero;
-        int horas;
+        int horas; // declaramos las variables
         
         System.out.print("digita cuanto ganas por hora \n->");
         dinero = jin.nextDouble();
         
         System.out.print("ahora digita cuantas horas trabajaste a la semana \n->");
-        horas = jin.nextInt();
+        horas = jin.nextInt(); // metemos los datos
         
-        double sueldo = dinero * horas;
+        double sueldo = dinero * horas; // multiplicamos las horas trabajadas por el salario por hora
         
-        System.out.println("tu salario es: " + sueldo);
+        System.out.println("tu salario es: " + sueldo); 
     }
     
 }
