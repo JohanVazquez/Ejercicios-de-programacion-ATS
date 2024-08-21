@@ -1,4 +1,4 @@
-/*una compañia de venta de carros usados, paga a su personal
+/*Ejercicio4: una compañia de venta de carros usados, paga a su personal
 de ventas un salario de 1000 mensuales, mas una comision de 150 por
 cada carro vendido, mas el 5% del valor de la venta por carro, cada mes
 el capturista de la empresa ingresa en la computadora los datos pertinentes.
